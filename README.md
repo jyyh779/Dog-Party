@@ -13,8 +13,8 @@ CSS was also updated so that as the width of the page becomes smaller, the navig
 
 Original page
 
-![] (comp.png)
+![] (images/comp.png)
 
 My version
 
-![Screenshot](images/final-version.png) /Users/brian/dog-party/images/final-version.png
+![Screenshot](images/final-version.png)
