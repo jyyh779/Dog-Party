@@ -17,4 +17,4 @@ Original page
 
 My version
 
-/Users/brian/dog-party/images/final-version.png
+![Screenshot](final-version.png) /Users/brian/dog-party/images/final-version.png
