@@ -12,9 +12,7 @@ CSS was also updated so that as the width of the page becomes smaller, the navig
 
 
 Original page
-
-![] (images/comp.png)
+![ScreenShot](images/comp.png)
 
 My version
-
 ![Screenshot](images/final-version.png)
