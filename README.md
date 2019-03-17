@@ -11,6 +11,10 @@ In the second phase, Javascript was added in order to make the page responsive. 
 CSS was also updated so that as the width of the page becomes smaller, the navigation bar will increase in height and the navigation links will be display in vertical blocks in order to make the page more accessible for mobile users.
 
 
+Original page
 
+/Users/brian/dog-party/images/comp.png
 
+My version
 
+/Users/brian/dog-party/images/final-version.png

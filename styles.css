@@ -61,6 +61,7 @@ ol {
  /* This part has the form */
 .mainheader {
 	color:#ffffff;
+	text-align: center;
 }
 
 .blueribbon { 
@@ -129,14 +130,9 @@ button {
 
 .section2 {
 	margin:-2px;
-	background:red;
 	border:2px solid black;
 	background:1150px;
 	border-top:0;
-}
-
-.mainheader {
-	text-align: center;
 }
 
 .bordercollie { 
@@ -169,7 +165,7 @@ button {
     margin: 82.5px;
     font-size:14px; 
     background-color:white;
-	background-size:1150px 500px;
+	background-size:1200px 500px;
 }
 
 .dogsmile {
